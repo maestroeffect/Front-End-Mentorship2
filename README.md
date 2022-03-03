@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://maestroeffect.github.io/Front-End-Mentorship2/](https://your-live-site-url.com)
 
 ## My process
 
@@ -134,12 +134,12 @@ Users should be able to:
 ```
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=ZJZtmD3H9Sc) - This helped me for overlay and background image color. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://stackoverflow.com/questions/7037959/css-root-directory) - This is an amazing article which helped me finally understand css root directory. I'd recommend it to anyone still learning this concept.
+- [First resource 1](https://www.youtube.com/watch?v=ZJZtmD3H9Sc) - This helped me for overlay and background image color. I really liked this pattern and will use it going forward.
+- [Second resource 2](https://stackoverflow.com/questions/7037959/css-root-directory) - This is an amazing article which helped me finally understand css root directory. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Website - [Omokhaiye Precious](https://www.your-site.com)
+- Website - [Omokhaiye Precious](https://maestroeffect.github.io/Front-End-Mentorship2/)
 - Frontend Mentor - [@maestro_effect](https://www.frontendmentor.io/profile/maestro_effect)
 - Instagram - [@maestro_effct](https://www.instagram.com/maestro_effct)
 
