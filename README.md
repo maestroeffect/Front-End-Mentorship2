@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/maestroeffect/Front-End-Mentorship2.git)
 - Live Site URL: [https://maestroeffect.github.io/Front-End-Mentorship2/](https://your-live-site-url.com)
 
 ## My process
